@@ -1,0 +1,3 @@
+public class main(String args[]){
+      private int i=0;
+}
