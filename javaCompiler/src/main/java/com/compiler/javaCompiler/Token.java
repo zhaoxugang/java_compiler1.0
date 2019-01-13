@@ -36,6 +36,10 @@ enum TokenType{
     GQ,//大于等于
     ASSIGN,//赋值
     BLANK,//空白符
+    ADD,//加
+    SUB,//减
+    MUL,//乘
+    DIV,//除
     ABSTRACT,
     ASSERT,
     BOOLEAN,
